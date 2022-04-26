@@ -1,0 +1,15 @@
+section {width: 980px; background: chartreuse; text-align: center;
+
+}
+
+.formulario { 
+    margin: auto; height: 100px;
+
+}
+#formu h2{ height: 300px;margin:auto;
+
+}
+input, textarea {
+    width: 50%;
+    padding: 5px; margin-bottom: 5px; box-sizing: border-box;float: left;margin-left: 250px;text-align: center;background-color: chartreuse; border-radius: 10px 10px 0 0; font-size: 14px;font-weight: bolder;
+}
